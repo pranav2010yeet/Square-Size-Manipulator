@@ -1,0 +1,46 @@
+body{
+    font-family: 'Patrick Hand', cursive;
+background-image: linear-gradient(to left bottom, #fffefe, #e8e5e6, #d0cdcf, #b8b6b9, #a09fa4, #898b90, #73777d, #5d6469, #454e52, #2e393c, #192627, #001312);;
+
+}
+
+.header{
+background-color: black;
+margin:0px;
+top:0;
+color: white;
+box-shadow: 5px 5px 5px white;
+width: 90%;
+border-radius: 20px;
+}
+.header2{
+    background-color: white;
+    
+    color: black;
+    box-shadow: 5px 5px 5px white;
+    width: 90%;
+    border-radius: 20px;
+    }
+
+
+    .NOTE{
+        font-size: 18px;
+        color: slategray;
+        padding: 10px;
+    }
+
+    #footer{
+        background-color: black;
+        width: 100%;
+        font-size: 20px;
+        color: lavender;
+        bottom: 0px;
+        position: fixed;
+        line-height: 2;
+    }
+
+    canvas{
+        border: 5px dashed black;
+        border-radius: 18px;
+        box-shadow:10px 10px 20px whitesmoke;
+    }
